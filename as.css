@@ -189,5 +189,6 @@ body{
 .fut{
   max-width: 600px;
   text-align: center;
+  display : block;
 
 }
