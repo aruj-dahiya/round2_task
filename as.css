@@ -178,6 +178,8 @@ body{
     width : 100%;
     color: white;
     text-allign : center;
+    justify-content: center;
+    align-items: center;
 }
 
 .mainclass{
